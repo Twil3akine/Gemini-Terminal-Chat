@@ -7,6 +7,13 @@ Gemini-CLIのほぼパクリ(多分)です。
 
 1. プロジェクトルートに.envを設置し、`GEMINI_API_KEY=`に続く形であなたのGemini API Keyを記述してください。
 
+2. `cargo run --release`で実行してください。
+3. 以下のような画面が出てきます。
+![](./images/default.png)
+
+4. Geminiと会話をしましょう！
+![](./images/hello,%20gemini.png)
+
 ---
 
 # 使い方
