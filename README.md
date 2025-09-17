@@ -1,6 +1,6 @@
 # Gemini Terminal Chat
 
-Gemini-CLIのほぼパクリ(多分)です。
+Geminiとお話ができます。
 使用するモデルは`Gemini-2.5-flash`です。
 
 ## 設定方法
